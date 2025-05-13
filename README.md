@@ -501,7 +501,7 @@ if (isset($_GET['file'])) {
 
 ✔ Evita XSS mostrando contenido de forma segura.
 
-## ENTREGA
+## ![ENTREGA](Entrega.md)
 
 > __Realiza las operaciones indicadas__
 
